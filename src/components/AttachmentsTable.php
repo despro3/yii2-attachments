@@ -6,7 +6,7 @@ use nemmo\attachments\behaviors\FileBehavior;
 use nemmo\attachments\ModuleTrait;
 use Yii;
 use yii\base\InvalidConfigException;
-use yii\bootstrap\Widget;
+use yii\bootstrap4\Widget;
 use yii\data\ArrayDataProvider;
 use yii\db\ActiveRecord;
 use yii\grid\GridView;
