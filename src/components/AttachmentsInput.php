@@ -6,7 +6,7 @@ use kartik\file\FileInput;
 use nemmo\attachments\models\UploadForm;
 use nemmo\attachments\ModuleTrait;
 use yii\base\InvalidConfigException;
-use yii\bootstrap\Widget;
+use yii\bootstrap4\Widget;
 use yii\helpers\FileHelper;
 use yii\helpers\Html;
 use yii\helpers\Url;
