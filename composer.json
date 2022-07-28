@@ -1,5 +1,5 @@
 {
-  "name": "nemmo/yii2-attachments",
+  "name": "despro3/yii2-attachments",
   "description": "Extension for file uploading and attaching to the models",
   "type": "yii2-extension",
   "keywords": [
@@ -10,7 +10,7 @@
     "upload"
   ],
   "license": "BSD-4-Clause",
-  "homepage": "https://github.com/Nemmo/yii2-attachments",
+  "homepage": "https://github.com/despro3/yii2-attachments",
   "authors": [
     {
       "name": "Alimzhan Abuov aka Nemmo",
@@ -31,7 +31,7 @@
   },
   "autoload": {
     "psr-4": {
-      "nemmo\\attachments\\": "src"
+      "despro3\\attachments\\": "src"
     }
   },
   "extra": {
