@@ -31,7 +31,7 @@
   },
   "autoload": {
     "psr-4": {
-      "despro3\\attachments\\": "src"
+      "nemmo\\attachments\\": "src"
     }
   },
   "extra": {
